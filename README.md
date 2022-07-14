@@ -8,8 +8,7 @@
 |**CPU**		       |Intel Core I3-5010U 2.10 GHz  |										      
 |**GPU**		       |Intel HD 5500		     		 										       |
 |**DGPU**		       |Nvidia GT 920M			     		 										       |
-|**RAM**         |RAM   : 1x 2GB DDR3L
-                          1x 8GB DDR3              |
+|**RAM**         |RAM   : 1x 2GB DDR3L   1x 8GB DDR3L              |
 |**SDD**         |SSD MidasForce 256 GB SATA III  		                |
 |**Layar**       |14 Inch HD LED	1366x768 (biasanya pake 1600x900 biar lega)	 		               |										      
 |**Wi-Fi/BT**    |Qualcom atheros AR956x 	   			     		                         | 	  
