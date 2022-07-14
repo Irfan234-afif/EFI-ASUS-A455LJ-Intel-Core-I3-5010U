@@ -42,13 +42,13 @@ BIOS Configurator
 saya mencoba beberapa pengaturan, dan saya menemukan hal aneh. Berada di pengaturan BIOS-ADVANCED, INTEL VIRTUALIZATION dan INTEL VT-D sebaiknya di non-aktifkan, ini akan mempengaruhi di bagian performa, entah mengapa bisa begitu saya juga tidak tahu, tapi saya telah tes BenchMark untuk itu. Dan ada lagi hal aneh yang terjadi, jika Intel AES-NI ikut ikut di nonaktifkan maka performa ikut menurun lagi saya tidak tahu lagi mengapa, Padahal Intel AES-NI berfungsi untuk Encrypt. saya mencoba mengak-tifkan satu persatu fitur itu, tapi yang terjadi sama saja dengan yang saya katakan tadi, maka saran saya begitu saja, tidak banyak namun berpengaruh di performa sekitar 10-20%
 
 
-Secure Boot         | Disabel
-Intel Virtulization | Disable
-Intel VT-D          | Disable
-DVMT Pre-Allocation | 64M / default 32M
-XHCI Pre-Boot Mode  | Enabled / Smart Auto jika menggunakan perangkat EHCI
-SATA Mode           | AHCI
-Launch CSM          | Disable
+|Secure Boot         | Disabel   |
+|Intel Virtulization | Disable   |
+|Intel VT-D          | Disable   |
+|DVMT Pre-Allocation | 64M / default 32M  |
+|XHCI Pre-Boot Mode  | Enabled / Smart Auto jika menggunakan perangkat EHCI   |
+|SATA Mode           | AHCI   |
+|Launch CSM          | Disable  |
 
 
 ________________________________________________________________________________________________________________________________________________
