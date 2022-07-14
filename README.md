@@ -62,11 +62,24 @@ ________________________________________________________________________________
 
 ## Post-Instalation
 
--USB MAPPING
+**-USB MAPPING**                                                                                                                                 
    jika sudah berhasil boot maka yang harus anda lakukan adalah **USB MAPPING** karna saya sering mendengar, hasil usb mapping gampang hilang maka usb mapping lah yang pertama kali anda lakukan
 
--Tes POWER MANAGEMENT
+**-Tes POWER MANAGEMENT**                                                                                                                         
   tes paling dasar adalah tes sleep,restart, shutdown. dan coba lah buka Intel Power Management dan biarkan laptop jangan digunakan apa apa dan lihat frekuensi nya, apakah naik naik atau stabil di 800 MHz. lakukan lebih mendalam lagi, lihat di dortania jika lebih lengkap nya
 
--Selalu Update OpenCore dan kext
+**-Selalu Update OpenCore dan kext**                                                                                                            
   karna kext juga penting untuk perbaikan mendasar
+
+
+
+## Thanks
+
+- Allah SWT.
+- Dortania
+- Olarila
+- Achidantera
+- Hackintosh Lovers
+- Hackintosh Indonesia
+- Jaemann Pratama
+- Achidantera
