@@ -18,14 +18,17 @@
 
 
 SUPPORT HIGH SIERRA - BIG SUR. (MONTEREY ADA PERSYARATAN)
+
 DI REKOMENDASIKAN MOJAVE
 
-karna MAC OS semakin tinggi versi, semakin di pangkas lagi featurnya
+karna MAC OS versi semakin tinggi,semakin di pangkas lagi featurnya
 
 KENAPA MOJAVE?
+
 mojave sangat stabil di versi laptop ini, menurut saya. karna segala featur masih di support dan performa sangat pas disini dari mulai GPU dan CPU. 
 
 KENAPA TIDAK CATALINA?
+
 sederhana saja, karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka dari itu saya tidak pernah mencobanya
 
 
@@ -36,7 +39,7 @@ BIOS Configurator
 saya mencoba beberapa pengaturan, dan saya menemukan hal aneh. Berada di pengaturan BIOS-ADVANCED, INTEL VIRTUALIZATION dan INTEL VT-D sebaiknya di non-aktifkan, ini akan mempengaruhi di bagian performa, entah mengapa bisa begitu saya juga tidak tahu, tapi saya telah tes BenchMark untuk itu. Dan ada lagi hal aneh yang terjadi, jika Intel AES-NI ikut ikut di nonaktifkan maka performa ikut menurun lagi saya tidak tahu lagi mengapa, Padahal Intel AES-NI berfungsi untuk Encrypt. saya mencoba mengak-tifkan satu persatu fitur itu, tapi yang terjadi sama saja dengan yang saya katakan tadi, maka saran saya begitu saja, tidak banyak namun berpengaruh di performa sekitar 10-20%
 
 
-Secure Boot | Disabel
+Secure Boot         | Disabel
 Intel Virtulization | Disable
 Intel VT-D          | Disable
 DVMT Pre-Allocation | 64M / default 32M
