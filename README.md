@@ -20,17 +20,17 @@
 SUPPORT HIGH SIERRA - BIG SUR. (MONTEREY ADA PERSYARATAN)
 
 
-**DI REKOMENDASIKAN MOJAVE
+**DI REKOMENDASIKAN MOJAVE**
 
 karna MAC OS versi semakin tinggi,semakin di pangkas lagi featurnya
 
 
-**KENAPA MOJAVE?
+**KENAPA MOJAVE?**
 
 mojave sangat stabil di versi laptop ini, menurut saya. karna segala featur masih di support dan performa sangat pas disini dari mulai GPU dan CPU. 
 
 
-**KENAPA TIDAK CATALINA?
+**KENAPA TIDAK CATALINA?**
 
 sederhana saja, karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka dari itu saya tidak pernah mencobanya
 
