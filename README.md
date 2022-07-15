@@ -17,12 +17,11 @@
 |**Input**       |PS2 Keyboard & Asus PS2 Touchpad |
 
 
-SUPPORT HIGH SIERRA - BIG SUR. (MONTEREY ADA PERSYARATAN)
+SUPPORT MAC OS  High Sierra - BIG SUR. (MONTEREY Hapus Kext Wifi dan Bluetooth)
 
 
 **DI REKOMENDASIKAN MOJAVE**
 
-karna MAC OS versi semakin tinggi,semakin di pangkas lagi featurnya
 
 
 **KENAPA MOJAVE?**
@@ -32,7 +31,7 @@ mojave sangat stabil di versi laptop ini, menurut saya. karna segala featur masi
 
 **KENAPA TIDAK CATALINA?**
 
-sederhana saja, karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka dari itu saya tidak pernah mencobanya
+karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka dari itu saya tidak pernah mencobanya dan beberapa senior di @HACKINTOSH_LOVERS menyarankan untuk mojave
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,8 +54,8 @@ ________________________________________________________________________________
 
 ## Pasca-Instalation
 
-- Ganti SMBIOS saran saya gunakan MacBook Air 7,2
-- Hapus yang perlu koreksi lagi EFI ini karna tidak ada efi publik yang langsung pakai
+- Ganti SMBIOS, saran saya gunakan MacBook Air 7,2
+- Hapus yang perlu. koreksi lagi EFI ini karna tidak ada efi publik yang langsung pakai
 - Jika devices sama persis, mungkin bisa langsung pakai
 
 
@@ -70,7 +69,9 @@ ________________________________________________________________________________
 
 **-Selalu Update OpenCore dan kext**                                                                                                            
   karna kext juga penting untuk perbaikan mendasar
-
+                                                                                                                                                
+**-Membuat SSDT.aml**                                                                                                                           
+  Gunakan ssdtPRGen.sh                                                                         
 
 
 ## Thanks
