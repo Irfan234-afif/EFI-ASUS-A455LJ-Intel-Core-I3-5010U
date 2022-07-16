@@ -1,6 +1,8 @@
 # EFI ASUS A455LJ Intel Core I3-5010U
-
-
+  
+<p align="center">
+   <img src="https://github.com/Irfan234-afif/EFI-ASUS-A455LJ-Intel-Core-I3-5010U/blob/main/SCREENSHOT/Jepretan%20Layar%202022-07-15%20pukul%2016.57.49.png"
+</p>
 
 
 | **Category**   | **Component**                 		
