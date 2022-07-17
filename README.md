@@ -18,6 +18,18 @@
 |**Audio** 		   |Conexant CX20751/2					 		                 |
 |**Input**       |PS2 Keyboard & Asus PS2 Touchpad |
 
+  
+## WORK
+
+-CPU POWER MANAGEMENT
+-SHUTDOWN, RESTART, SLEEP
+-QE/CI of HD 5500
+-ETHERNET
+-WIFI
+-BLUETOOTH
+-AUDIO AND PORT JACK
+-HDMI
+-ALL USB PORT  
 
 SUPPORT MAC OS  High Sierra - BIG SUR. (MONTEREY Hapus Kext Wifi dan Bluetooth)
 
