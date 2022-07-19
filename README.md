@@ -50,7 +50,7 @@ karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka da
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-BIOS Configurator
+## BIOS Configurator
 
 saya mencoba beberapa pengaturan, dan saya menemukan hal aneh. Berada di pengaturan BIOS-ADVANCED, INTEL VIRTUALIZATION dan INTEL VT-D sebaiknya di non-aktifkan, ini akan mempengaruhi di bagian performa, entah mengapa bisa begitu saya juga tidak tahu, tapi saya telah tes BenchMark untuk itu. Dan ada lagi hal aneh yang terjadi, jika Intel AES-NI ikut ikut di nonaktifkan maka performa ikut menurun lagi saya tidak tahu lagi mengapa, Padahal Intel AES-NI berfungsi untuk Encrypt. saya mencoba mengak-tifkan satu persatu fitur itu, tapi yang terjadi sama saja dengan yang saya katakan tadi, maka saran saya begitu saja, tidak banyak namun berpengaruh di performa sekitar 10-20%
 
@@ -71,6 +71,7 @@ ________________________________________________________________________________
 - Ganti SMBIOS, saran saya gunakan MacBook Air 7,2
 - Hapus yang perlu. koreksi lagi EFI ini karna tidak ada efi publik yang langsung pakai
 - Jika devices sama persis, mungkin bisa langsung pakai
+- dGPU di non-aktifkan melalui SSDT
 
 
 ## Post-Instalation
@@ -84,8 +85,7 @@ ________________________________________________________________________________
 **-Selalu Update OpenCore dan kext**                                                                                                            
   karna kext juga penting untuk perbaikan mendasar
                                                                                                                                                 
-**-Membuat SSDT.aml**                                                                                                                           
-  Gunakan ssdtPRGen.sh                                                                         
+                                                                        
 
 
 ## Thanks
