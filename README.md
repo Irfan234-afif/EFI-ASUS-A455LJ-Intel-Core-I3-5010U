@@ -1,4 +1,14 @@
 # EFI ASUS A455LJ Intel Core I3-5010U
+
+## ORIENTASI                                                                                                           
+Saya berhasil membuat efi ini dengan bantuan mas abbas atau yang sering di kenal repo github nya "JAEMAN PRATAMA" dan para senior yang lain seperti mas reno mas rara mas bagas, di bimbing dengan baik untuk membuat efi ini terima kasih sebelum nya untuk semua senior hackintosh.                                                                                                                           
+
+Sharing dikit menggunakan hackintosh ini, saya puas menggunakan hackintosh karna fitur yang ditawarkan banyak sekali dan membuat workflow menjadi sangat mudah, namun harus sabar menggunakan hackintosh untuk di awal, karna mengulik-ulik efi tidak mudah, banyak sekali informasi yang harus kita ketahui, dan banyak sekali nanti masalah yang akan di hadapi.                                        
+
+Jika sudah berhasil boot hackintosh jangan sia-sia kan fitur yang di tawarkan, karna itu yang membuat hackintosh sangat berguna, jika fitur fitur saja tidak anda gunakan maka apa bedanya dengan windows.                                                                   
+
+Saya menggunakan metode manual untuk membuat ssdt-plug karna metode ini menurut saya yang pas, CPU dingin kana opini saya menggunakan metode manual itu POWER MANAGEMEN akan di sama kan dengan default pengaturan CPU nya seperti di windows(hanya opini) dan saya sudah mencoba banyak metode pembuatan ssdt-plug namun ini yang menurut saya terbaik jika anda ingin mengganti silahkan
+
   
 <p align="center">
    <img src="https://github.com/Irfan234-afif/EFI-ASUS-A455LJ-Intel-Core-I3-5010U/blob/main/SCREENSHOT/Jepretan%20Layar%202022-07-15%20pukul%2016.57.49.png"
@@ -9,7 +19,7 @@
 |----------------|--------------------------------------|
 |**CPU**		       |Intel Core I3-5010U 2.10 GHz  |										      
 |**GPU**		       |Intel HD 5500		     		 										       |
-|**DGPU**		       |Nvidia GT 920M			     		 										       |
+|**DGPU**		       |Nvidia GT 920M(disable)			     		 										       |
 |**RAM**         |RAM   : 1x 2GB DDR3L   1x 8GB DDR3L              |
 |**SDD**         |SSD MidasForce 256 GB SATA III  		                |
 |**Layar**       |14 Inch HD LED	1366x768 (biasanya pake 1600x900 biar lega)	 		               |										      
@@ -18,7 +28,8 @@
 |**Audio** 		   |Conexant CX20751/2					 		                 |
 |**Input**       |PS2 Keyboard & Asus PS2 Touchpad |
 
-  
+
+
 ## WORK
 
 - CPU POWER MANAGEMENT
