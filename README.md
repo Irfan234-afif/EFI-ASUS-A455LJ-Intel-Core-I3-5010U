@@ -1,4 +1,4 @@
-# EFI ASUS A455LJ Intel Core I3-5010U
+# HACKINTOSH ASUS A455LJ Intel Core I3-5010U
 
 ## ORIENTASI                                                                                                           
 Saya berhasil membuat efi ini dengan bantuan mas abbas atau yang sering di kenal repo github nya "JAEMAN PRATAMA" dan para senior yang lain seperti mas reno mas rara mas bagas, di bimbing dengan baik untuk membuat efi ini terima kasih sebelum nya untuk semua senior hackintosh.                                                                                                                           
