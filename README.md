@@ -7,8 +7,6 @@ Sharing dikit menggunakan hackintosh ini, saya puas menggunakan hackintosh karna
 
 Jika sudah berhasil boot hackintosh jangan sia-sia kan fitur yang di tawarkan, karna itu yang membuat hackintosh sangat berguna, jika fitur fitur saja tidak anda gunakan maka apa bedanya dengan windows.                                                                   
 
-Saya menggunakan metode manual untuk membuat ssdt-plug karna metode ini menurut saya yang pas, CPU dingin kana opini saya menggunakan metode manual itu POWER MANAGEMENT akan di sama kan dengan default pengaturan CPU nya seperti di windows(hanya opini) dan saya sudah mencoba banyak metode pembuatan ssdt-plug namun ini yang menurut saya terbaik jika anda ingin mengganti silahkan
-
   
 <p align="center">
    <img src="https://github.com/Irfan234-afif/EFI-ASUS-A455LJ-Intel-Core-I3-5010U/blob/main/SCREENSHOT/Jepretan%20Layar%202022-07-15%20pukul%2016.57.49.png"
