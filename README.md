@@ -18,7 +18,7 @@ Jika sudah berhasil boot hackintosh jangan sia-sia kan fitur yang di tawarkan, k
 |**CPU**		       |Intel Core I3-5010U 2.10 GHz  |										      
 |**GPU**		       |Intel HD 5500		     		 										       |
 |**DGPU**		       |Nvidia GT 920M(disable)			     		 										       |
-|**RAM**         |RAM   : 1x 2GB DDR3L   1x 8GB DDR3L              |
+|**RAM**         |RAM   : 1x 2GB HYNIX 1600 MHz DDR3, SAMSUNG 1x 8GB 1600MHz DDR3              |
 |**SDD**         |SSD MidasForce 256 GB SATA III  		                |
 |**Layar**       |14 Inch HD LED	1366x768 (biasanya pake 1600x900 biar lega)	 		               |										      
 |**Wi-Fi/BT**    |Qualcom atheros AR956x 	   			     		                         | 	  
