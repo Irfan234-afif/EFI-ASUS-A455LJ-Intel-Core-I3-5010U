@@ -50,11 +50,11 @@ SUPPORT MAC OS  High Sierra - BIG SUR. (MONTEREY Hapus Kext Wifi dan Bluetooth)
 **KENAPA MOJAVE?**
 
 mojave sangat stabil di versi laptop ini, menurut saya. karna segala featur masih di support dan performa sangat pas disini dari mulai GPU dan CPU. 
-Namun saya tetap menggunakan bigsur
+Namun **saya tetap menggunakan bigsur**
 
 **KENAPA TIDAK CATALINA?**
 
-karna banyak rumor yang menyatakan catalina banyak bug dan segala macem, maka dari itu saya tidak pernah mencobanya dan beberapa senior di @HACKINTOSH_LOVERS menyarankan untuk mojave
+entahlah, saya suka di mojave ehehehehehe
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
